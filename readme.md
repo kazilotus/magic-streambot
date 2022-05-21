@@ -1,0 +1,2 @@
+# Dockerfile
+If you run the dockerfile with `sh start.sh`, it will install all dependencies, run xvfb, script, and remove once it is exited. You can edit that file and change behavior to --restart always to make sure it restarts on error.
